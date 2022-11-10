@@ -18,3 +18,7 @@ Editor: Casey Aristide Github profile: https://github.com/aristc98
 ## License 
 
 Please refer to license in the repo
+
+## How the alt attributes look in the elements!
+
+![image](https://user-images.githubusercontent.com/115967805/201217432-a2feecad-1a36-4393-b793-9359e67204fc.png)
